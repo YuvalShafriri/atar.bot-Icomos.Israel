@@ -1,0 +1,5 @@
+# Ignore docs directory
+docs/
+
+# Ignore VSCode workspace files
+*.code-workspace
