@@ -66,10 +66,10 @@ MIT License — Free for academic, professional, and commercial use.
 
 **Developed by:**
 
-- **Associate Professor Yael Alef** — Heritage Methodology & CBSA Framework  
+- **Associate Professor Yael Alef**, Heritage Methodology & CBSA Framework  
   📧 yaelalef@technion.ac.il
 
-- **Yuval Shafriri** — AI Architecture & Implementation  
+- **Yuval Shafriri**, AI Architecture & Implementation  
   📧 yuval.shafriri@gmail.com
 
 **Workshop Context:** Developed for ICOMOS Israel Workshop, December 2024
