@@ -1,8 +1,11 @@
-# Ignore docs raft-prompts/ directories
+# Ignore docs Draft-prompts/ directories
 docs/
 Draft-prompts/
- 
- 
+
+# Allow specific README files
+!README.md
+!GPTs/README.md
+!gemini.md
 
 # Ignore VSCode workspace files
 *.code-workspace
