@@ -1,10 +1,8 @@
-# Ignore docs directory
+# Ignore docs raft-prompts/ directories
 docs/
-
-# Ignore all MD files except gemini.md
-*.md
-!gemini.md
-!README.md
+Draft-prompts/
+ 
+ 
 
 # Ignore VSCode workspace files
 *.code-workspace
