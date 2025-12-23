@@ -1,5 +1,13 @@
 # Ignore docs directory
 docs/
 
+# Ignore all MD files except gemini.md
+*.md
+!gemini.md
+!README.md
+
 # Ignore VSCode workspace files
 *.code-workspace
+
+# Snyk Security Extension - AI Rules (auto-generated)
+.github/instructions/snyk_rules.instructions.md
