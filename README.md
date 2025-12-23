@@ -27,8 +27,8 @@ The `gemini.md` file is a comprehensive AI instruction set that implements the f
 
 You can use `gemini.md` with any AI system that supports long-context prompts:
 
-1. **Copy the entire `gemini.md` content**
-2. **Paste it into your AI platform** (Google Gemini, ChatGPT, Claude, etc.)
+1. **upload  the entire `gemini.md` file or use as GEM instructions**
+2. **Paste it into your AI platform** (Google Gemini, ChatGPT, Claude, deepseek etc.)
 3. **Upload your heritage documentation** (text, images, site plans)
 4. **Start the assessment** by typing: "התחל בתהליך" (Hebrew) or "Start assessment" (English)
 
@@ -36,10 +36,11 @@ The AI will guide you step-by-step through the CBSA process, pausing for your in
 
 ### Supported Platforms
 
-- **Google Gemini** (recommended — designed for Gemini 2.0 Flash Experimental)
-- **ChatGPT** (GPT-4 or higher)
-- **Claude** (Claude 3.5 or higher)
-- Any AI with 1M+ token context window
+- **Google Gemini** (recommended — designed for Gemini pro)
+- **ChatGPT**  - plus models
+- **Claude**  - 4.5 
+- **Deepseek**
+- Any AI with large  context window
 
 ---
 
@@ -108,4 +109,4 @@ For questions, suggestions, or contributions:
 ---
 
 **Last Updated:** December 2024  
-**Version:** 2.0 (Gemini Flash Experimental)
+**Version:** 2.0  
