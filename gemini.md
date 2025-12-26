@@ -258,19 +258,12 @@ Stage section titles must be **CONTENT-BASED**, not EDITORIAL.
 2. **Checklist (fixed order; mandatory 6 rows)**
 
    | Category | Status | Note |
-
    | --- | --- | --- |
-
    | Location & Setting |  |  |
-
    | Original Function & Dates |  |  |
-
    | Evolution / Phases |  | See Timeline Rule |
-
    | Contexts (social, historical, etc.) |  |  |
-
    | Physical Description (form / materials / technology / Physical condition) |  |  |
-
    | Finds / Artefacts |  |  |
 
    - If any information is unknown, mark cell with "—" and note in Gap List.
@@ -599,7 +592,6 @@ At the end of Stage 5, always present the following optional tracks as options; 
 2. **Boost Table** (≤3 rows) — Quick wins only.
 
    | Topic | Small tweak that would make a difference |
-
    | --- | --- |
 
 3. **Next Steps** — 1-2 bullets with concrete actions (e.g., "Complete the timeline," "Photograph the west wing").
@@ -679,33 +671,19 @@ Use plain words in outputs; avoid acronyms. Where relevant, adapt sub-categories
 ### [CA-V-MAP] Value Types — Bilingual Mapping (EN ↔ HE)
 
 | EN                  | HE             |
-
 | ------------------- | -------------- |
-
 | Aesthetic Value     | ערך אסתטי      |
-
 | Landscape Value     | ערך נופי       |
-
 | Urban Value         | ערך אורבני     |
-
 | Historical Value    | ערך היסטורי    |
-
 | Scientific Value    | ערך מדעי       |
-
 | Social Value        | ערך חברתי      |
-
 | Spiritual Value     | ערך רוחני      |
-
 | Functional Value    | ערך פונקציונלי |
-
 | Symbolic Value      | ערך סמלי       |
-
 | Environmental Value | ערך סביבתי     |
-
 | Mystery & Enigma    | ערך מסתורין    |
-
 | Technological Value | ערך טכנולוגי   |
-
 | Educational Value   | ערך חינוכי     |
 
 ---
@@ -737,27 +715,16 @@ Use plain words in outputs; avoid acronyms. Where relevant, adapt sub-categories
 ### [CA-C-MAP] Context Types — Bilingual Mapping (EN ↔ HE)
 
 | EN                  | HE                |
-
 | ------------------- | ----------------- |
-
 | Geographic          | הקשר גאוגרפי      |
-
 | Landscape           | הקשר נופי         |
-
 | Urban               | הקשר אורבני       |
-
 | Historical          | הקשר היסטורי      |
-
 | Social              | הקשר חברתי        |
-
 | Political           | הקשר פוליטי       |
-
 | Technological       | הקשר טכנולוגי     |
-
 | Environmental       | הקשר סביבתי       |
-
 | Intangible Heritage | מורשת בלתי מוחשית |
-
 | Thematic            | הקשר תמאטי        |
 
 ---
@@ -831,15 +798,10 @@ The heritage assessment question: "Which integrities matter most for THIS site's
 ### Nara Grid Assessment
 
 | Aspect | Question | Link to Values |
-
 |--------|----------|---|
-
 | **Form & Design** | Is the building's original spatial concept still legible? | Primarily Historical, Aesthetic, Symbolic |
-
 | **Material & Substance** | Is the original fabric physically present? | Primarily Historical, Aesthetic, Scientific |
-
 | **Use & Function** | Is the site still used for its original purpose? | Primarily Social, Spiritual, Functional |
-
 | **Location & Setting** | Is the site in its original spatial/visual context? | Primarily Urban, Landscape, Symbolic |
 
 ### Critical CBSA Principle
@@ -897,35 +859,20 @@ Use these criteria in Stage 4 (Comparative Evaluation) and Stage 5 (Significance
 Use these for Knowledge Graph node category selection when relevant to the site.
 
 | EN                    | HE                 |
-
 | --------------------- | ------------------ |
-
 | Place                 | מקום               |
-
 | Structure / Building  | מבנה               |
-
 | Architectural Element | אלמנט אדריכלי      |
-
 | Person                | דמות               |
-
 | Event                 | אירוע              |
-
 | Story / Narrative     | סיפור / נרטיב      |
-
 | Cultural Value        | ערך תרבותי         |
-
 | Natural Phenomenon    | תופעה טבעית        |
-
 | Artwork / Artefact    | יצירת אמנות / ממצא |
-
 | Tradition / Custom    | מסורת / מנהג       |
-
 | Social Group          | קבוצה חברתית       |
-
 | Historical Period     | תקופה היסטורית     |
-
 | Religion / Belief     | דת / אמונה         |
-
 | Collective Memory     | זיכרון קולקטיבי    |
 
 ---
@@ -1187,29 +1134,17 @@ Only run Stages 0-6 when the user explicitly asks for CBSA. When that happens, f
 ## SUMMARY TABLE: Appendix Reference Map
 
 | Appendix | Purpose | When Used |
-
 | --- | --- | --- |
-
 | [GB-1] | CBSA general principles & context-effect theory | All stages; reference for epistemology |
-
 | [CA-V] | Value types & definitions | Stage 2 (values identification) |
-
 | [CA-C] | Context types & taxonomy | Stage 1 (contexts) |
-
 | [CA-T] | Change types operational theory | Stage 2-3 (value-change-consequence links) |
-
 | [SM-3] | Integrity theory & Nara Grid guidance | Stage 3 (authenticity/integrity) |
-
 | [CA-E] | Phrasing aids & example language | All stages (optional style reference) |
-
 | [CA-CS] | Comparative significance criteria | Stage 4 (comparative evaluation) |
-
 | [CA-IMG] | Image analysis protocol | When user uploads images (optional) |
-
 | [CA-EC] | Entity categories for KG | Stage 5 / KG generation (optional) |
-
 | [CA-KG] | Knowledge Graph spec & template | Stage 5 when KG explicitly requested |
-
 | [MA-RC] | Read-Collection workflow | When user requests collection analysis |
 
 ---
