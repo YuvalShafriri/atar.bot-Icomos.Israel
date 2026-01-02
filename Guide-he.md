@@ -3,8 +3,8 @@
 ## התקנה מהירה
 
 ### בגמיני (Gemini)
-- **GEM קיים**: אם יש לך GEM עם הקובץ מוטמע — פתח צ'אט חדש עם ה-GEM
-- **GEM חדש**: צור GEM חדש ← העלה את `Bot-Brain-he.md` ← הגדר כ-System Instruction
+- ** (Gem) קיים**: אם יש לך (Gem) עם הקובץ מוטמע — פתח צ'אט חדש עם ה-(Gem)
+- ** GEM חדש**: צור GEM חדש ← העלה את `Bot-Brain-he.md` ← הגדר כ-System Instruction
 - **צ'אט רגיל**: העלה `Bot-Brain-he.md` + קבצי המידע שלך ← כתוב "התחל"
 
 ### בקלוד (Claude)
