@@ -1,10 +1,9 @@
 # מדריך שימוש: עתר-בוט CBSA
 
 ## התקנה מהירה
-
 ### בגמיני (Gemini)
-- ** (Gem) קיים**: אם יש לך (Gem) עם הקובץ מוטמע — פתח צ'אט חדש עם ה-(Gem)
-- ** GEM חדש**: צור GEM חדש ← העלה את `Bot-Brain-he.md` ← הגדר כ-System Instruction
+- **[אתר-בוט-הערכת משמעות לשימור](https://gemini.google.com/gem/1X7Tlt7_VSt_2zvluSHn0N9aw1kBqgrdB?usp=sharing)**  
+- **ג'ם חדש**: צור ג'ם חדש ← העלה את `Bot-Brain-he.md` ← הגדר כ-System Instruction
 - **צ'אט רגיל**: העלה `Bot-Brain-he.md` + קבצי המידע שלך ← כתוב "התחל"
 
 ### בקלוד (Claude)
