@@ -8,7 +8,7 @@ This repository contains the core AI prompt (`gemini.md`) that powers Atar.Bot, 
 
 ---
 
-## The `gemini.md` Prompt
+## The `Bot-Barin-en.md` Prompt
 
 The `gemini.md` file is a comprehensive AI instruction set that implements the full CBSA methodology. It contains:
 
